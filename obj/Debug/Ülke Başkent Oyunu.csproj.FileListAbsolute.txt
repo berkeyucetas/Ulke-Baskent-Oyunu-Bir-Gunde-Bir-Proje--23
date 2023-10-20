@@ -1,0 +1,11 @@
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Ülke Başkent Oyunu\Ülke Başkent Oyunu\bin\Debug\Ülke Başkent Oyunu.exe.config
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Ülke Başkent Oyunu\Ülke Başkent Oyunu\bin\Debug\Ülke Başkent Oyunu.exe
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Ülke Başkent Oyunu\Ülke Başkent Oyunu\bin\Debug\Ülke Başkent Oyunu.pdb
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Ülke Başkent Oyunu\Ülke Başkent Oyunu\obj\Debug\Ülke Başkent Oyunu.csproj.AssemblyReference.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Ülke Başkent Oyunu\Ülke Başkent Oyunu\obj\Debug\Ülke Başkent Oyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Ülke Başkent Oyunu\Ülke Başkent Oyunu\obj\Debug\Ülke_Başkent_Oyunu.Form1.resources
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Ülke Başkent Oyunu\Ülke Başkent Oyunu\obj\Debug\Ülke_Başkent_Oyunu.Properties.Resources.resources
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Ülke Başkent Oyunu\Ülke Başkent Oyunu\obj\Debug\Ülke Başkent Oyunu.csproj.GenerateResource.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Ülke Başkent Oyunu\Ülke Başkent Oyunu\obj\Debug\Ülke Başkent Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Ülke Başkent Oyunu\Ülke Başkent Oyunu\obj\Debug\Ülke Başkent Oyunu.exe
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Ülke Başkent Oyunu\Ülke Başkent Oyunu\obj\Debug\Ülke Başkent Oyunu.pdb
